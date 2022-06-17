@@ -1,3 +1,7 @@
+/**
+ * Runtime: 1 ms, faster than 72.45% of Java online submissions for Merge Two Sorted Lists.
+ * Memory Usage: 43.4 MB, less than 27.23% of Java online submissions for Merge Two Sorted Lists.
+ */
 public class MergeTwoSortedLists {
     public ListNode mergeTwoLists(ListNode list1, ListNode list2) {
 
